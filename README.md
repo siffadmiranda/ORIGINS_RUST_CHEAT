@@ -12,25 +12,19 @@
 
 ### Supported game client:
 - Steam
-
 ### Built-in spoofer:
 No
-
 ### Anti-cheat:
-- - EACH
-
+EAC
 ### Be sure to subscribe to the OBS:
 No
-
 ### Supported game modes:
 - Window type
 - Frameless
 - Full-screen
-
 ### Supported processors:
 - Intel
 - AMD
-
 ### Supported operating systems:
 - Windows 10, 11 (x64):
-- - Versions: 21h1, 21H2, 22h2, 23h2, 24h2
+Versions: 21h1, 21H2, 22h2, 23h2, 24h2
