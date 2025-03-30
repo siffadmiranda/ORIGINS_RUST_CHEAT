@@ -14,13 +14,13 @@
 - Steam
 
 ### Built-in spoofer:
-"No," I said.
+No
 
 ### Anti-cheat:
 - - EACH
 
 ### Be sure to subscribe to the OBS:
-"No," I said.
+No
 
 ### Supported game modes:
 - Window type
